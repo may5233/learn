@@ -13,4 +13,8 @@ Creating a new branch is quick and simple.
 
 --no-ff
 
+<<<<<<< Updated upstream
 我是在某分支上修复的bug
+=======
+工作进行时……
+>>>>>>> Stashed changes
